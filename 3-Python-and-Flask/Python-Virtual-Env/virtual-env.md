@@ -1,8 +1,8 @@
 Create and activate the virtual environment:
 
 pip install virtualenv
-python -m virtualenv my_env # create a virtual environment my_env
-my_env\Scripts\activate # activate my_env
+python -m virtualenv my_env OR virtualenv my_env
+my_env\Scripts\activate OR source my_env/bin/activate
 
 Install libraries in the virtual environment:
 
