@@ -1,7 +1,7 @@
 import torch
 import os
 import gradio as gr
-#from langchain.llms import OpenAI
+from langchain.llms import OpenAI
 from langchain.llms import HuggingFaceHub
 from transformers import pipeline
 from langchain.prompts import PromptTemplate

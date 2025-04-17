@@ -46,3 +46,20 @@ A foundation model is a large, general-purpose AI model trained on vast amounts 
 
     Limitations:
     Potential biases in training data and the risk of generating inaccurate information (hallucination).
+
+LangChain:
+
+An open-source Python framework designed to streamline the development of large language model (LLM) applications. Key points include:
+
+Purpose: LangChain helps developers integrate LLMs into AI applications, enabling them to extract relevant information from text and respond to complex prompts.
+
+Benefits:
+
+    Modularity: Components can be reused, reducing development time.
+    Extensibility: Developers can easily add features and adapt existing components.
+    Decomposition: Complex tasks are broken down into manageable steps for accurate responses.
+    Integration with Vector Databases: Enhances semantic searches and information retrieval.
+
+Practical Uses: Includes content summarization, data extraction, customer support systems, and automated content generation. LangChain can also work with other data types like images and audio through external libraries.
+
+This framework is valuable for various AI tasks, making it easier to develop applications that leverage LLMs effectively.
